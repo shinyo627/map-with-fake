@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shinyo627/map-with-fake#readme",
   "dependencies": {
     "@types/faker": "^5.5.8",
+    "@types/google.maps": "^3.45.6",
     "faker": "^5.5.3"
   }
 }
