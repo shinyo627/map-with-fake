@@ -1,0 +1,22 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "Faker map",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinyo627/map-with-fake.git"
+  },
+  "author": "Yoseob Shin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinyo627/map-with-fake/issues"
+  },
+  "homepage": "https://github.com/shinyo627/map-with-fake#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
